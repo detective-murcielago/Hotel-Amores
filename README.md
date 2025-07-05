@@ -2,17 +2,17 @@
 
 Este proyecto es una **aplicación de escritorio en Java con interfaz gráfica usando Swing**, diseñada para gestionar de manera eficiente las operaciones básicas de un hotel. Permite registrar huéspedes, empleados, habitaciones, hospedajes y generar reportes de ventas.
 
-## 📌 Funcionalidades principales
+##  Funcionalidades principales
 
-- ✅ Registro, búsqueda y listado de **huéspedes**
-- ✅ Registro, búsqueda y listado de **empleados**
-- ✅ Gestión de **habitaciones** (registro, mantenimiento, eliminación)
-- ✅ Manejo de **fichas de hospedaje** (check-in y check-out)
-- ✅ **Reporte de ventas** por día
-- ✅ Validación de duplicados por DNI, ID o teléfono
-- ✅ Interfaz gráfica intuitiva construida con **Java Swing**
+- Registro, búsqueda y listado de **huéspedes**
+-  Registro, búsqueda y listado de **empleados**
+-  Gestión de **habitaciones** (registro, mantenimiento, eliminación)
+-  Manejo de **fichas de hospedaje** (check-in y check-out)
+-  **Reporte de ventas** por día
+-  Validación de duplicados por DNI, ID o teléfono
+-  Interfaz gráfica intuitiva construida con **Java Swing**
 
-## 🖥️ Interfaz Gráfica (Java Swing)
+##  Interfaz Gráfica (Java Swing)
 
 La aplicación cuenta con múltiples ventanas (JFrames y JPanels) que permiten al usuario:
 
@@ -43,7 +43,7 @@ ProyectoHotel/
 └── README.md
 
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Java SE 8 o superior**
 - **Java Swing** para la interfaz gráfica
@@ -51,7 +51,7 @@ ProyectoHotel/
 - `java.time.LocalDate` para gestión de fechas
 - IDE sugerido: **NetBeans**, **IntelliJ IDEA** o **Eclipse**
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Abre el proyecto en tu IDE (NetBeans, IntelliJ, etc.)
 2. Compila el proyecto
