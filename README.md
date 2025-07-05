@@ -37,7 +37,7 @@ ProyectoHotel/
 │ └── FichaHospedaje.java
 │
 ├── interfaz/ # Paquete con las clases de la interfaz gráfica
-│ ├── VentanaPrincipal.java
+│ ├── login.java
 │ └── ...
 │
 └── README.md
@@ -60,7 +60,7 @@ ProyectoHotel/
 ```java
 public class Main {
     public static void main(String[] args) {
-        new VentanaPrincipal().setVisible(true); // Lanza la ventana principal
+        new login().setVisible(true); // Lanza la ventana principal
     }
 }
 👤 Autor
